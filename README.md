@@ -219,8 +219,9 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 
 #### Wisdom
 
-- Actively identifies bottlenecks across the organization and works to remove them
+- Actively identifies bottlenecks across the organization and works to remove them.
 - Has a complete understanding of all the things that are critical for the customers and helps the team accomplish the high priority tasks by delegating work accordingly and resolving any blockers.
+- Acts reasonably in accordance with budget and uses company resources effectively.
 
 #### Charisma
 
