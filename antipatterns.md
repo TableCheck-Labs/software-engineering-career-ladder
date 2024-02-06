@@ -2,7 +2,7 @@
 
 ![rain-man](https://github.com/TableCheck-Labs/software-engineering-career-ladder/assets/10506366/17c416db-eb59-42af-a1ab-68589401732f)
 
-Often faces difficulties in effective collaboration due to limited interpersonal skills, making it challenging to build positive working relationships with colleagues. The Rain Man is a frequent trope (aka "grey beards") that can understand any system without ever looking at any code.
+Often faces difficulties in effective collaboration due to limited interpersonal skills, making it challenging to build positive working relationships with colleagues. The Rain Man is a frequent trope that can understand any system without ever looking at any code.
 
 ## The Perfectionist
 
