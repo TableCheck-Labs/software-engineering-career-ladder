@@ -51,7 +51,8 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - Increases their productivity skills by improving their knowledge of their IDE, hotkeys, and any tools that can increase productivity.
 - Should become fluent in testing best practice.
 - Capable of taking well-defined sub-tasks and completing these tasks.
-
+- Should be learning the art of providing solutions, not problems.
+  
 #### Wisdom
 
 - Understands the company's mission, vision and [values](https://www.tablecheck.com/en/blog/ihibon/).
@@ -66,7 +67,6 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - Abides by our [code review guidelines](https://github.com/tablecheck-labs/code-review-guidelines).
 - Refines their ability to ask pointed, well-crafted questions and should strive to be able to immaculately articulate their problems when they need help.
 - Attends all necessary meetings punctually.
-- Should be learning the art of providing solutions, not problems.
 - Does not get lost with basic project management; can own their tickets from ideation to production.
 - Over-communicates the status of their work via status updates, ticket transitions, asynchronous communication, and strives not to be blocked for long periods of time.
 
