@@ -52,13 +52,13 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - Should become fluent in testing best practice.
 - Capable of taking well-defined sub-tasks and completing these tasks.
 - Should be learning the art of providing solutions, not problems.
-  
+- Takes initiative to understand complex systems instead of giving up without any help.
+    
 #### Impact
 
 - Understands the company's mission, vision and [values](https://www.tablecheck.com/en/blog/ihibon/).
 - Has a clear understanding of our customer’s problems.
 - Develops knowledge of a single component of our architecture.
-- Takes initiative to understand complex systems instead of giving up without any help.
 - Should develop their understanding of the F&B industry.
 
 #### Communication
