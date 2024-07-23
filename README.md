@@ -7,12 +7,11 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - The “how” of building solutions.
 - Awareness of industry trends.
 - Ability to learn new technologies, codebases and stacks.
-- Comprehension of our technical systems.
-- Understanding of our systems e2e in production beyond the confines of your local environment.
+- Holistic comprehension of the company's entire tech stack.
 
 ### Strength — Delivery :muscle:
 
-- Decision-making.
+- Confidence and decision-making.
 - First principles thinking.
 - Efficiency and productivity.
 - Urgency and velocity.
@@ -22,16 +21,17 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 
 - Knowing the “why” and “what” of building solutions, tight collaboration with product team.
 - Building the most correct solution given any set of business constraints.
-- Understanding of customer problems.
+- Deep understanding of customers and their problems.
 - Business knowledge and understanding of the F&B industry.
-- Alignment with TC Mission and IHIBON values.
+- Alignment with TC Mission and the company values.
 
 ### Charisma — Communication & Leadership :handshake:
 
-- Organization, project management.
+- Empathetic communication: knowing how to speak the language of your audience and expressing information in the most digestable way possible.
+- Clarity of expression of information.
+- Organization of information, documentation.
 - Receiving and giving feedback.
 - Collaboration.
-- Clarity of expression of information.
 - Mentorship.
 - Culture, team-building.
 
@@ -39,13 +39,13 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 
 ### Junior Engineer
 
-#### Dexterity
+#### Technical Skills
 
 - Has basic knowledge of the core stack of their first assigned project.
 - Focuses on growing as an engineer, learning existing tools, resources and processes.
 - Has an adventurous spirit and is willing to dive into completely new, unknown territory.
 
-#### Strength
+#### Delivery
 
 - Focuses on understanding and executing our [engineering first principles](https://github.com/TableCheck-Labs/engineering-first-principles)
 - Increases their productivity skills by improving their knowledge of their IDE, hotkeys, and any tools that can increase productivity.
@@ -53,7 +53,7 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - Capable of taking well-defined sub-tasks and completing these tasks.
 - Should be learning the art of providing solutions, not problems.
   
-#### Wisdom
+#### Impact
 
 - Understands the company's mission, vision and [values](https://www.tablecheck.com/en/blog/ihibon/).
 - Has a clear understanding of our customer’s problems.
@@ -61,7 +61,7 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - Takes initiative to understand complex systems instead of giving up without any help.
 - Should develop their understanding of the F&B industry.
 
-#### Charisma
+#### Communication
 
 - Accepts feedback graciously and learns from everything they do.
 - Abides by our [code review guidelines](https://github.com/tablecheck-labs/code-review-guidelines).
@@ -72,14 +72,14 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 
 ### Engineer
 
-#### Dexterity
+#### Technical Skills
 
 - Writes correct and clean code with guidance; consistently follows stated best practices.
 - Participates in technical design of features with guidance.
 - Rarely makes the same mistake twice, begins to focus on attaining expertise in one or more areas.
 - Has the ability to learn a new thing quickly with no guidance and does not block him/herself by lack of search effort.
 
-#### Strength
+#### Delivery
 
 - Has a good understanding of our [engineering first principles](https://github.com/TableCheck-Labs/engineering-first-principles) though has not yet mastered them.
 - Can own the entire SDLC with very minimal hand-holding.
@@ -88,12 +88,12 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - Does not block themselves in decision-paralysis; can think of multiple ways to move forward based on first principles and does so with guidance.
 - Presents solutions, not problems.
 
-#### Wisdom
+#### Impact
 
 - Self-sufficient in at least one large area of the codebase (multiple services in a pillar, all code related to a main funnel flow) with a high-level understanding of other components.
 - Has a high level understanding of the impact of his/her work on the customers and works on the high priority tasks as directed by the manager/supervisor.
 
-#### Charisma
+#### Communication
 
 - Gives timely, helpful feedback to peers and managers.
 - Communicates assumptions and gets clarification on tasks up front to minimize the need for rework.
@@ -102,14 +102,14 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 
 ### Senior Engineer
 
-#### Dexterity
+#### Technical Skills
 
 - Understands and makes well-reasoned design decisions and tradeoffs in their area; able to work in other codebases with minimal guidance.
 - Doesn't flail while debugging.
 - Demonstrates knowledge of industry trends.
 - Provides technical advice and weighs in on technical decisions that impact other teams or the company at large. Researches and proposes new technologies.
 
-#### Strength
+#### Delivery
 
 - A master of our [engineering first principles](https://github.com/TableCheck-Labs/engineering-first-principles).
 - Persistent in the face of roadblocks; dispatches them efficiently, pulling in others as necessary.
@@ -121,7 +121,7 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - Known for drama-free launches.
 - Owns the technical testing and performance plan for their projects
 
-#### Wisdom
+#### Impact
 
 - End-to-end responsibility on projects of increasing complexity; contributes to common code.
 - Go-to expert in one area of the codebase; understands the broad architecture of the entire system.
@@ -129,7 +129,7 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - Identifies and proactively tackles technical debt before it grows into debt that requires significant up-front work to resolve.
 - Has a complete understanding of how the tasks assigned to him/her affect the clients and organizes his queue based on priority with little or no help from manager/supervisor
 
-#### Charisma
+#### Communication
 
 - Makes others better through code review, thorough documentation, technical guidance, and mentoring or serving as a Tech Lead on a project. Acts as a force multiplier for junior and mid engineers.
 - Understands the tradeoffs between technical, analytical and product needs and leads to solutions that take all of these needs into account.
@@ -139,7 +139,7 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 
 ### Principal Engineer
 
-#### Dexterity
+#### Technical Skills
 
 - Sought out for technical guidance; anticipates technical issues at the product level and makes architectural and design decisions to avoid them.
 - Owner of and expert on large sections of our codebase.
@@ -148,7 +148,7 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - Able to recognize and make trade-offs with respect to the whole system.
 - Understands deeply the entire architecture for a major part of our business and is able to articulate clearly the scaling and reliability limits of that area.
 
-#### Strength
+#### Delivery
 
 - Recognized as a prolific contributor.
 - Consistently able to reduce the complexity of projects, services, and processes in order to get more done with less work.
@@ -156,7 +156,7 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - Quickly breaks down complex problems into potential solutions, knowns, and unknowns, in order to get to solid resolutions faster.
 - Capable of debugging the hairiest problems that the team encounters.
 
-#### Wisdom
+#### Impact
 
 - Shapes broad architecture; ships multiple large services, complex libraries or major pieces of tooling.
 - Has made an obvious positive impact on the entire company's technical trajectory.
@@ -164,7 +164,7 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 - Decisions have a direct impact on the long-term success or failure of TableCheck.
 - Creates architecture that enables many potential futures without knowing exactly what the future is.
 
-#### Charisma
+#### Communication
 
 - Multiplies the effectiveness of others by facilitating cross-team work.
 - Listens and guides debates to help reach a consensus; once a decision is made, clearly communicates and backs that decision.
@@ -178,26 +178,26 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 
 ### Engineering Supervisor
 
-#### Dexterity
+#### Technical Skills
 
 - Ensures their organization has appropriately high technical competence and strives for excellence.
 - Assists Senior and Principal engineers in researching new technologies to stay abreast of industry trends and standards.
 - Capable of jumping in to help debug and triage critical systems as needed.
 - Contributes to architecture by asking the right questions to ensure architecture matches business needs for the area.
 
-#### Strength
+#### Delivery
 
 - Develops and deploys new strategies for building a high velocity, high performance development organization in line with our emerging customer needs.
 - Responsible for all headcount planning and personnel evolution for the entire frontend team.
 - Is proactive in the support and continual growth of all members in their squad and team.
 
-#### Wisdom
+#### Impact
 
 - Proactively nurtures the talent of the senior staff in their areas.
 - Builds and supports high functioning, motivated teams.
 - Nurtures a culture that prioritizes a deep understanding of how to balance technical debt vs business goals.
 
-#### Charisma
+#### Communication
 
 - Collaborates across functional areas to define, prioritize and ensure implementation of specific innovations to improve technical functionality in support of business needs, efficiencies and revenue.
 - Able to communicate technical concepts to business stakeholders as well as communicate business objectives to the technical team.
@@ -207,23 +207,23 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 
 ### Engineering Manager
 
-#### Dexterity
+#### Technical Skills
 
 - Contributes to architectural decisions with a focus on the product and business needs now and in the future, knows the right questions to ask to help the team get to the right decision.
 - Greatest technical strength is debugging organizational processes.
 
-#### Strength
+#### Delivery
 
 - In partnership with the CTO, product leads, and other business stakeholders, translates the high-level strategic vision into a clear and actionable technology roadmap.
 - Supports technical innovation and leads the creation, continual refinement, and active enforcement of our development standards in order to ensure that our technology can be leveraged as a sustainable competitive advantage.
 
-#### Wisdom
+#### Impact
 
 - Actively identifies bottlenecks across the organization and works to remove them.
 - Has a complete understanding of all the things that are critical for the customers and helps the team accomplish the high priority tasks by delegating work accordingly and resolving any blockers.
 - Acts reasonably in accordance with budget and uses company resources effectively.
 
-#### Charisma
+#### Communication
 
 - Ensures that every direct report understands the business goals for the quarter and has bought in to these goals.
 - Removes and streamlines processes that generate blockers
