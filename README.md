@@ -32,10 +32,10 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 
 - Empathetic communication: knowing how to speak the language of your audience and expressing information in the most digestable way possible.
 - Clarity of expression of information.
-- Organization of information, documentation.
+- Knowledge management and organization of information.
 - Receiving and giving feedback.
-- Collaboration.
-- Mentorship.
+- Collaboration, conflict resolution.
+- Mentorship, force multiplication.
 - Culture, team-building.
 
 ## Engineering Ladder
