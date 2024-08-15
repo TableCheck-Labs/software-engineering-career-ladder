@@ -12,11 +12,12 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 ### Strength — Delivery :muscle:
 
 - Initiative, being the engineering you want to work with.
+- Quality and reliability of deliverables.
 - Confidence and decision-making.
 - First principles thinking.
 - Efficiency and productivity.
 - Urgency and velocity.
-- Quality, stability and reliability of deliverables.
+- Execution and project management.
 
 ### Wisdom - Impact :thinking:
 
