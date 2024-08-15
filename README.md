@@ -5,7 +5,8 @@ Based off https://dresscode.renttherunway.com/blog/ladder
 ### Dexterity — Technical Skill :brain:
 
 - The “how” of building solutions.
-- Awareness of industry trends.
+- Awareness of industry trends, both past and present.
+- Computer science fundamentals.
 - Ability to learn new technologies, codebases and stacks.
 - Holistic comprehension of the company's entire tech stack.
 
