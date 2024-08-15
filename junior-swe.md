@@ -8,6 +8,7 @@
 
 ## Delivery
 
+- Does not get lost with basic project management; can own their tickets from ideation to production.
 - Focuses on understanding and executing our [engineering first principles](https://github.com/TableCheck-Labs/engineering-first-principles)
 - Increases their productivity skills by improving their knowledge of their IDE, hotkeys, and any tools that can increase productivity.
 - Should become fluent in testing best practice.
@@ -28,5 +29,4 @@
 - Abides by our [code review guidelines](https://github.com/tablecheck-labs/code-review-guidelines).
 - Refines their ability to ask pointed, well-crafted questions and should strive to be able to immaculately articulate their problems when they need help.
 - Attends all necessary meetings punctually.
-- Does not get lost with basic project management; can own their tickets from ideation to production.
 - Over-communicates the status of their work via status updates, ticket transitions, asynchronous communication, and strives not to be blocked for long periods of time.
